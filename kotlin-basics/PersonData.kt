@@ -1,1 +1,1 @@
-data class PersonData(val name: String, val age: Int)
+data class PersonData(val name: String, val age: Int , val job : String)

@@ -4,3 +4,11 @@ fun main() {
     val b = 5
     println("Toplam: ${a + b}")
 }
+
+
+
+fun subtraction(a : Int , b : Int) : Int{
+    return  a -b
+}
+
+
